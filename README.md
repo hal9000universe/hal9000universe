@@ -4,6 +4,9 @@
 - 🌱 I’m currently learning **Measure Theory and Algebra**
 
 <h3 align="left">Languages and Tools:</h3>
+
 - Rust
+
 - Python (& PyTorch)
+  
 - C++
