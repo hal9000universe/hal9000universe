@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **Functional Analysis**
 
 <h3 align="left">Languages and Tools:</h3>
+
 - Python (& PyTorch)
 
 - Rust
